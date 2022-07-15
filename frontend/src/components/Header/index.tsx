@@ -1,5 +1,5 @@
-import logo from '../../assets/img/logo.svg'
-import './Styles.css'
+import logo from '../../assets/img/logo.svg';
+import './Styles.css';
 function Header() {
     return (
         <header>
@@ -16,4 +16,4 @@ function Header() {
     )
 }
 
-export default Header
+export default Header;
